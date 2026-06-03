@@ -216,6 +216,3 @@ Possible future improvements include:
 **Md. Atique Asif**  
 UI/UX Designer and Web Developer
 
-## License
-
-This project is created for portfolio, learning, and UI/UX design showcase purposes.
